@@ -1,0 +1,2 @@
+/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/xvt/xvt.o /home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/xvt/user-infc.o /home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/xvt/utils.o /home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/xvt/fw.o /home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/xvt/nvm.o /home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/xvt/rx.o /home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/xvt/debugfs.o
+

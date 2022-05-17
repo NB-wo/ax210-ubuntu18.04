@@ -1,0 +1,389 @@
+0xc9178b46	ieee80211_disconnect	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xf49fcf35	ieee80211_wake_queues	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x88514713	cfg80211_external_auth_request	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x61808282	ieee80211_unreserve_tid	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x01f108bb	ieee80211_queue_stopped	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xf91d85da	wdev_to_ieee80211_vif	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x78971d7e	iwl_he_is_sgi	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x949fadc7	iwl_tm_set_fw_ver	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xe75b7e77	iwl_notification_wait	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x843aa85e	wiphy_to_ieee80211_hw	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xcaac69a3	cfg80211_sched_scan_stopped_locked	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xa29492ac	cfg80211_ch_switch_notify	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xe366e839	cfg80211_notify_new_peer_candidate	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xb72ade7d	__tracepoint_iwlwifi_dev_ucode_wrap_event	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL	
+0x6e3bb66e	iwl_drv_switch_op_mode	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xf5596d89	cfg80211_get_p2p_attr	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xdae599ff	iwl_parse_nvm_data	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x9d82590c	iwl_trans_send_cmd	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x117aca91	cfg80211_merge_profile	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xe5dab3f9	ieee80211_rx_list	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x1c4a0f62	ieee80211_stop_tx_ba_cb_irqsafe	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xfc12af91	ieee80211_sched_scan_stopped	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xa20ea83b	iwl_fw_dbg_collect_trig	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x4708dc6e	iwl_opmode_register	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xd5c6aca9	ieee80211_nan_func_terminated	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x6bedf402	ieee80211_freq_khz_to_channel	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x78e15e79	iwl_fw_runtime_suspend	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x7c3ac925	ieee80211_get_vht_max_nss	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x5988395c	iwl_notification_wait_init	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xd977aa99	__iwl_dbg	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x877e9c1b	ieee80211_tx_dequeue	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xc62ac054	ieee80211_queue_delayed_work	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xc4f0d223	iwl_write_prph_delay	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xa5458fe5	ieee80211_sta_pspoll	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xafa3dde5	cfg80211_vendor_cmd_get_sender	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL_GPL	
+0x33504981	iwl_sar_select_profile	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x7879fb05	ieee80211_tdls_oper_request	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xb6c19489	cfg80211_sched_scan_results	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x11fa373e	ieee80211_get_hdrlen_from_skb	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x39b2675a	cfg80211_update_owe_info_event	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x322e2a02	ieee80211_return_txq	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xac7dc375	ieee80211_alloc_hw_nm	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xe58f7bf8	backport_dev_fetch_sw_netstats	/home/lh/ax210-ubuntu18.04/compat/compat	EXPORT_SYMBOL_GPL	
+0x0bbc3e11	iwl_poll_direct_bit	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x01bbfe34	ieee80211_next_txq	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x351dc736	backport_compat_ptr_ioctl	/home/lh/ax210-ubuntu18.04/compat/compat	EXPORT_SYMBOL	
+0xcac89ebf	cfg80211_chandef_usable	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xb032afae	cfg80211_iter_combinations	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x0b46be45	iwl_parse_mei_nvm_data	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xbf1c5ffb	ieee80211_stop_tx_ba_session	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x3e9464e7	iwl_set_bits_prph	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x8fd54861	iwl_fw_runtime_resume	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x408dd7c5	iwl_parse_nvm_mcc_info	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xc67dd6b1	__ieee80211_get_radio_led_name	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x0cc95bc2	ieee80211_s1g_channel_width	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xbafc0c46	ieee80211_queue_work	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xb3d18d49	__cfg80211_alloc_event_skb	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x776221bf	iwl_send_phy_db_data	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x7ef39823	ieee80211_hdrlen	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x2b6d15e5	ieee80211_csa_finish	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x44ba4d4e	ieee80211_stop_queue	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xd2037c32	cfg80211_chandef_dfs_required	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xa85f7152	ieee80211_iter_keys_rcu	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xa596903e	__iwl_warn	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x7f9f2942	ieee80211_mark_rx_ba_filtered_frames	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x1332e4de	iwl_abort_notification_waits	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x5987fe45	iwl_fw_lookup_assert_desc	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	
+0xab6ad90d	iwl_acpi_get_mcc	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xa31125a0	cfg80211_unlink_bss	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x62e82d53	iwl_write_prph_no_grab	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x5d26bbbc	iwl_fwrt_dump_error_logs	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x5c52e109	iwl_opmode_deregister	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x14ea7346	iwl_fw_dbg_read_d3_debug_data	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x6514dea8	ieee80211_restart_hw	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xfa759f6d	ieee80211_sched_scan_results	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xbd3d7922	get_wiphy_regdom	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xd1ce8a4b	ieee80211_sta_uapsd_trigger	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xa87e4a3c	__ieee80211_get_tx_led_name	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x961af15b	iwl_tm_gnl_send_msg	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xa4fda1d7	ieee80211_get_num_supported_channels	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xd7d6b0db	cfg80211_put_bss	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x90ec9742	cfg80211_send_layer2_update	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x75160fcb	iwl_cmd_groups_verify_sorted	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xe334e6df	cfg80211_sinfo_alloc_tid_stats	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xb35d64d2	ieee80211_report_wowlan_wakeup	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x9e3ba266	cfg80211_remain_on_channel_expired	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x470ea651	iwl_get_nvm	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x0a291547	ieee80211_remain_on_channel_expired	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x5b83b01e	ieee80211_calc_rx_airtime	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x446685d2	cfg80211_rx_mlme_mgmt	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x04e0b646	cfg80211_tx_mlme_mgmt	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xcc1a7c48	cfg80211_is_element_inherited	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x53bca858	cfg80211_cqm_txe_notify	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x2710c362	iwl_dump_desc_assert	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x36fc7cb0	cfg80211_ref_bss	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xbd94d0ca	ieee80211_iterate_stations_atomic	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0xb43a926b	backport_dependency_symbol	/home/lh/ax210-ubuntu18.04/compat/compat	EXPORT_SYMBOL_GPL	
+0x459970aa	cfg80211_register_netdevice	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x275269b3	ieee80211_ie_split_ric	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x79b82a71	cfg80211_find_vendor_elem	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x72d02976	ieee80211_rx_napi	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x39866d2b	ieee80211_disable_rssi_reports	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x197fe01f	ieee80211_get_tx_rates	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x4bfaa4c0	iwl_acpi_get_lari_config_bitmap	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x4457bfbe	iwl_dnt_dev_if_read_sram	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x5584448a	ieee80211_channel_to_freq_khz	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x8ef19fcd	__cfg80211_alloc_reply_skb	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x79b00485	cfg80211_conn_failed	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xa2a65f17	cfg80211_rx_spurious_frame	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x99b83f04	cfg80211_control_port_tx_status	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xe21abe14	ieee80211_manage_rx_ba_offl	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x9d6cba30	cfg80211_find_elem_match	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x1d13e5ed	iwl_fw_dbg_collect_desc	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xf04aefae	ieee80211_mandatory_rates	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xbcd041ad	iwl_init_paging	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x429c0c31	ieee80211_bss_get_elem	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x46f9f6e6	ieee80211_rate_control_register	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xb1921ae0	iwl_force_nmi	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xcb46555e	iwl_set_bits_mask_prph	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x9c420452	ieee80211_ctstoself_duration	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x5a89d9ed	__ieee80211_get_assoc_led_name	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xf88964e4	iwl_remove_notification	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x84bb50e1	iwl_rs_pretty_ant	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x5f797a59	cfg80211_crit_proto_stopped	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x6383c1a4	ieee80211_ready_on_channel	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x689cc8a1	cfg80211_ready_on_channel	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xa47175e7	iwl_read_prph	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x20fe3462	cfg80211_classify8021d	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xf5b9c348	cfg80211_cac_event	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x9252b3da	ieee80211_nan_func_match	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xef819769	ieee80211_beacon_set_cntdwn	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x9029df60	ieee80211_generic_frame_duration	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xb7825eae	ieee80211_color_change_finish	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0xfc1e6f41	iwl_guid	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x1bb01d41	iwl_dnt_dispatch_collect_ucode_message	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x0c5d1476	cfg80211_vendor_cmd_reply	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL_GPL	
+0x11dfd603	ieee80211_start_tx_ba_cb_irqsafe	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xf435a7e0	ieee80211_sta_block_awake	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x3a9c3a45	ieee80211_channel_switch_disconnect	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xd8016a06	wiphy_register	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x0958fd8a	ieee80211_beacon_get_tim	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x5250cf98	ieee80211_tkip_add_iv	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0xb7d5ffb1	iwl_rate_mcs	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xe39d95f8	cfg80211_cqm_rssi_notify	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xdca61efa	ieee80211_beacon_get_template	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x8846e228	iwl_acpi_get_eckv	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xc19a3100	ieee80211_start_tx_ba_session	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xa4b2b77e	ieee80211_key_replay	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0xa9d7a1d5	backport_dev_get_tstats64	/home/lh/ax210-ubuntu18.04/compat/compat	EXPORT_SYMBOL_GPL	
+0x021cdb86	iwl_fw_start_dbg_conf	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x4e3d06ab	_dmi_get_system_info	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x4e6a1b14	iwl_tm_init	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x8fa02936	cfg80211_free_nan_func	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xd6aa9f45	ieee80211_tx_rate_update	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xa423cbda	cfg80211_roamed	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x19e3bf87	cfg80211_check_station_change	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x6d936d26	cfg80211_assoc_timeout	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xad4fd80d	ieee80211_cqm_rssi_notify	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x4005d00b	__iwl_crit	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x447339c5	__cfg80211_send_event_skb	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x83e17290	wiphy_free	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xb16ec879	ieee80211_vif_to_wdev	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x063f5308	ieee80211_get_tkip_p1k_iv	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xdd1289b6	iwl_sar_get_wrds_table	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xbc128cf0	iwl_sar_get_wgds_table	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xc9fd2a5a	ieee80211_txq_may_transmit	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xbd54b82d	iwl_acpi_get_wifi_pkg_range	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x0318b7d0	ieee80211_txq_schedule_start	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xf3188e6a	iwl_fw_runtime_init	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xd043439a	backport_netif_rx_any_context	/home/lh/ax210-ubuntu18.04/compat/compat	EXPORT_SYMBOL	
+0x43afadee	ieee80211_radiotap_iterator_init	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x354c7372	iwl_fw_dbg_stop_restart_recording	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xce0c6460	iwl_phy_db_set_section	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xaa38ef21	ieee80211_tx_status_irqsafe	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x6644dca6	ieee80211_find_sta	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x27ee631a	cfg80211_sta_opmode_change_notify	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xc47c50a3	cfg80211_bss_color_notify	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xb5ae85ec	cfg80211_ibss_joined	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x1ce2497f	reg_query_regdb_wmm	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x9c5b3840	ieee80211_stop_queues	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xdba126c1	reg_initiator_name	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x3296bd7b	cfg80211_tdls_oper_request	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x06ca71fd	cfg80211_chandef_create	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xe114fd30	cfg80211_port_authorized	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x6446554d	ieee80211_nullfunc_get	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xd1bab5e3	ieee80211_stop_rx_ba_session	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x3c56fa91	cfg80211_cqm_beacon_loss_notify	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x4ce06424	ieee80211_radar_detected	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x41cb987c	regulatory_set_wiphy_regd_sync	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x3b77b67c	ieee80211_rts_duration	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xe1d0d89c	ieee80211_ave_rssi	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x78ba69e8	ieee80211_gtk_rekey_notify	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x1a66fc17	ieee80211_get_tkip_rx_p1k	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x7c979d70	_iwl_dbg_tlv_time_point	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x76e17408	iwl_write_direct32	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x182aaad9	ieee80211_unregister_hw	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x7af4ff86	ieee80211_get_buffered_bc	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x991a0ca0	ieee80211_parse_p2p_noa	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x10080ba6	ieeee80211_obss_color_collision_notify	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x407c7ac9	ieee80211_get_response_rate	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x77c1bf43	cfg80211_cqm_pktloss_notify	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x4b44cb09	cfg80211_abandon_assoc	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x0f4dc2fe	ieee80211_reserve_tid	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x3c6bf72f	cfg80211_tx_mgmt_expired	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x26fb3f0b	iwl_read_prph_no_grab	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x55f79b6b	iwl_dnt_dispatch_handle_nic_err	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xa2402861	cfg80211_sched_scan_stopped	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x4d426c8a	cfg80211_get_bss	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x4dc172bc	cfg80211_gtk_rekey_notify	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xf0310760	cfg80211_probe_status	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xc42c8b3c	cfg80211_report_obss_beacon_khz	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x81bc92f0	__iwl_info	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x027c6254	ieee80211_sta_set_buffered	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xed9beb1b	iwl_acpi_get_tas	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xd97eaad4	cfg80211_chandef_compatible	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xc612eeaf	iwl_dnt_dev_if_read_rx	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x15a37cf3	cfg80211_calculate_bitrate	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x7c888837	cfg80211_pmsr_complete	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL_GPL	
+0x37956b72	rs_pretty_print_rate	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x30b0b896	ieee80211_schedule_txq	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xea1b26fc	iwl_nvm_fixups	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xbc41f18f	ieee80211_send_eosp_nullfunc	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x28efe72a	iwl_write64	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xcb6f0b93	ieee80211_scan_completed	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xa1247034	ieee80211_remove_key	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x4dac2197	cfg80211_connect_done	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x8f35df96	rate_control_set_rates	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xd63eeb64	iwl_configure_rxq	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x1c68e7d3	iwl_clear_bits_prph	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x514ef213	iwl_read32	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xe6e8b41c	ieee80211_report_low_ack	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x0fe2dbd0	ieee80211_beacon_update_cntdwn	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xa7f8210b	iwl_uefi_get_sgom_table	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x1cdfc6bb	ieee80211_data_to_8023_exthdr	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x974dc3df	__ieee80211_create_tpt_led_trigger	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x8ba79d22	ieee80211_amsdu_to_8023s	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x878deca8	cfg80211_new_sta	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x105f2936	cfg80211_shutdown_all_interfaces	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL_GPL	
+0xf278378d	ieee80211_register_hw	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x45cb3bcc	ieee80211_sta_register_airtime	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xc4f21948	ieee80211_update_mu_groups	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x5d4e8097	ieee80211_sta_ps_transition	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x1c5756e4	iwl_acpi_is_ppag_approved	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x525a5883	iwl_read_direct32	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xfdb12285	ieee80211_find_sta_by_ifaddr	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x3fa5cb6b	iwl_fw_lookup_notif_ver	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	
+0x9c4312d4	cfg80211_report_wowlan_wakeup	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x9726364e	cfg80211_get_station	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xa35f2861	iwl_phy_db_get_section_data	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xb9b6e499	iwl_get_cmd_string	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xe151f242	ieee80211_beacon_cntdwn_is_complete	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x2aa84308	iwl_drv_get_dev_container	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x2d4d5f99	iwl_sar_geo_init	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xe5752af3	ieee80211_get_bssid	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xcab0a5fe	ieee80211_txq_get_depth	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x8b9dcc6e	wiphy_rfkill_set_hw_state_reason	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xda91af63	ieee80211_rx_ba_timer_expired	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x1879fcbd	bridge_tunnel_header	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x831127f4	ieee80211_chswitch_done	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x1d12716e	iwl_sar_geo_support	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xbcb234a3	ieee80211_get_tkip_p2k	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x78576c78	ieee80211_connection_loss	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x2eeedb47	_dmi_check_system	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x85945ee2	iwl_fw_dbg_error_collect	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x161ecab6	wiphy_unregister	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x8d6e1bd8	cfg80211_iftype_allowed	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x87927054	iwl_fw_lookup_cmd_ver	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	
+0x79c3304f	_dmi_match	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xd9c7b7ab	iwl_read_ppag_table	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x21e6d010	iwl_dnt_free	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x55bbd3dc	ieee80211_wake_queue	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x1412daa1	iwl_poll_bit	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xe0eb5838	iwl_init_notification_wait	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xda2d69dc	__ieee80211_get_rx_led_name	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x20a6a247	__tracepoint_iwlwifi_dev_ucode_cont_event	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL	
+0x275e21f7	cfg80211_nan_func_terminated	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xe29632f5	ieee80211_tx_status_8023	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x6f4684d8	ieee80211_beacon_loss	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x2dca53ab	cfg80211_auth_timeout	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x4e06e19d	iwl_acpi_get_pwr_limit	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xf878c587	ieee80211_free_txskb	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xcf1240c8	ieee80211_rx_irqsafe	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x79eb30d4	iwl_write_direct64	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x27e5a3f6	iwl_write32	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x575d6c56	ieee80211_iterate_active_interfaces_atomic	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x7b75995c	cfg80211_check_combinations	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x2a6d2a45	ieee80211_enable_rssi_reports	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x07bd010e	__iwl_err	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x9038811a	iwl_rfi_guid	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x3108af45	cfg80211_disconnected	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xc03e4fe7	cfg80211_nan_match	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x4245f685	ieee80211_tx_prepare_skb	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x874c77de	iwl_fw_rate_idx_to_plcp	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xf2bd333e	ieee80211_iterate_active_interfaces_mtx	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0xccc0c7c3	cfg80211_ft_event	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x98e2514e	backport_sysfs_emit	/home/lh/ax210-ubuntu18.04/compat/compat	EXPORT_SYMBOL_GPL	
+0x320a2fe9	cfg80211_any_usable_channels	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x59c13bed	ieee80211_key_mic_failure	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0xb432b981	iwl_fw_dbg_collect	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xe8899fc7	cfg80211_unregister_wdev	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x9349a78b	ieee80211_iter_chan_contexts_atomic	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0xf70d7c93	iwl_pnvm_load	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x209b2ed5	cfg80211_scan_done	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xcc56dd10	cfg80211_inform_bss_data	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x2d856203	cfg80211_radar_event	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x3972e994	ieee80211_proberesp_get	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x94fb4044	iwl_write_prph64_no_grab	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xf58a42c1	cfg80211_rx_unprot_mlme_mgmt	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xc4b4fc27	cfg80211_chandef_valid	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x046aa55d	cfg80211_assoc_comeback	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x8b16a4be	iwl_write8	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x1521abdc	ieee80211_cqm_beacon_loss_notify	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xf40bc2f5	ieee80211_operating_class_to_band	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xb37b318c	iwl_rs_pretty_bw	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x23c84d4a	ieee80211_get_fils_discovery_tmpl	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x69b18f43	rfc1042_header	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xfae0c4b8	cfg80211_rx_mgmt_khz	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x2180dd63	ieee80211_txq_airtime_check	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x3c262547	iwl_fw_dbg_stop_sync	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x1910f14b	cfg80211_bss_iter	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x59f42790	cfg80211_inform_bss_frame_data	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xe98e3199	cfg80211_reg_can_beacon_relax	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x26aca994	ieee80211_free_hw	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xb629fdbe	cfg80211_pmksa_candidate_notify	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xd56d55f3	ieee80211_get_mesh_hdrlen	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x8ccadf22	ieee80211_pspoll_get	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x7293b82f	ieee80211_rts_get	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xb1de7ccc	iwlwifi_mod_params	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xd2303676	wiphy_new_nm	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xfce95896	iwl_acpi_get_ppag_table	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x23437d1f	regulatory_pre_cac_allowed	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x8149917f	ieee80211_request_smps	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x35033c81	iwl_phy_db_free	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x7b2a2dd7	cfg80211_mgmt_tx_status	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x8ae74f66	freq_reg_info	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x8a99cef5	iwl_get_shared_mem_conf	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x7acb86ed	ieee80211_radiotap_iterator_next	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xed905130	ieee80211_iterate_interfaces	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x3643b80f	ieee80211_chandef_to_operating_class	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x8d262e6e	iwl_acpi_get_object	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xf99aba57	ieee80211_gtk_rekey_add	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x1c7de9a7	iwl_sar_get_ewrd_table	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x9c1af708	iwl_acpi_get_dsm_u8	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x0d06d089	cfg80211_ch_switch_started_notify	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xf822b42f	ieee80211_sta_eosp	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xda4da779	ieee80211_tx_status	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xb2626a5a	iwl_set_soc_latency	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xfc76e625	cfg80211_stop_iface	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x578764f7	ieee80211_tx_status_ext	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x02592ee7	ieee80211_send_bar	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xab0de952	ieee80211_probereq_get	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x62faa968	iwl_finish_nic_init	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x98ea53b9	ieee80211_rate_control_unregister	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x21dc5982	ieee80211_iter_keys	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xc0a840a1	iwl_tm_gnl_send_rx	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x307f5359	ieee80211_calc_tx_airtime	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0xc03c97a8	iwl_acpi_get_dsm_u32	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x55044b4b	cfg80211_get_drvinfo	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x19f37f0d	ieee80211_update_p2p_noa	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x9b11d83f	ieee80211_ap_probereq_get	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x6b63201a	ieee80211_resume_disconnect	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x4c1c952e	iwl_dnt_start	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x4fc2c3fd	cfg80211_pmsr_report	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL_GPL	
+0x86d4fc5a	backport_tasklet_unlock_spin_wait	/home/lh/ax210-ubuntu18.04/compat/compat	EXPORT_SYMBOL_GPL	
+0x1ee9c199	__tracepoint_iwlwifi_dev_ucode_event	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL	
+0xd1aebb74	regulatory_set_wiphy_regd	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x82fabe4d	ieee80211_ctstoself_get	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x183dcd3b	ieee80211_get_key_rx_seq	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x7f51b659	wiphy_rfkill_start_polling	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x57f7b295	regulatory_hint	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x22453c63	iwl_wait_notification	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xf5c9d11b	wiphy_apply_custom_regulatory	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xbbfaa9e3	iwl_read_external_nvm	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xbfe743ac	cfg80211_rx_control_port	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xd8e09da4	ieee80211_set_key_rx_seq	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x49e0135d	iwl_new_rate_from_v1	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xf1d2845e	iwl_dbg_tlv_del_timers	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x79315e52	cfg80211_del_sta_sinfo	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x9de6b93a	ieee80211_get_channel_khz	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xdfd74b90	iwl_phy_db_init	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x6b5690f6	cfg80211_rx_assoc_resp	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x647ef8c7	iwl_free_fw_paging	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x76bfa115	cfg80211_rx_unexpected_4addr_frame	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x9ab86735	iwl_read_eeprom	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xac1b81b7	cfg80211_michael_mic_failure	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x1234131f	cfg80211_reg_can_beacon	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	
+0xe58888b5	iwl_dnt_init	/home/lh/ax210-ubuntu18.04/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0xfd5495fd	ieee80211_get_unsol_bcast_probe_resp_tmpl	/home/lh/ax210-ubuntu18.04/net/mac80211/mac80211	EXPORT_SYMBOL	
+0xcb341b18	cfg80211_bss_flush	/home/lh/ax210-ubuntu18.04/net/wireless/cfg80211	EXPORT_SYMBOL	

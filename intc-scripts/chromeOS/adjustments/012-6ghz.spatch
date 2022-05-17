@@ -1,0 +1,61 @@
+@@
+@@
++#if CFG80211_VERSION < KERNEL_VERSION(5,10,0)
++static void
++iwl_mvm_umac_scan_fill_6g_chan_list(struct iwl_mvm *mvm,
++				     struct iwl_mvm_scan_params *params,
++				     struct iwl_scan_probe_params_v4 *pp)
++{}
++#else
+iwl_mvm_umac_scan_fill_6g_chan_list(...)
+{
+...
+}
++#endif
+
+@@
+typedef u32;
+@@
++#if CFG80211_VERSION < KERNEL_VERSION(5,10,0)
++static u32
++iwl_mvm_umac_scan_cfg_channels_v6_6g(struct iwl_mvm *mvm,
++				      struct iwl_mvm_scan_params *params,
++				      u32 n_channels,
++				      struct iwl_scan_probe_params_v4 *pp,
++				      struct iwl_scan_channel_params_v6 *cp,
++				      enum nl80211_iftype vif_type)
++{
++	return 0;
++}
++#else
+iwl_mvm_umac_scan_cfg_channels_v6_6g(...)
+{
+...
+}
++#endif
+
+@@
+@@
++#if CFG80211_VERSION < KERNEL_VERSION(5,8,0)
++static void iwl_init_he_6ghz_capa(struct iwl_trans *trans,
++				  struct iwl_nvm_data *data,
++				  struct ieee80211_supported_band *sband,
++				  u8 tx_chains, u8 rx_chains)
++{}
++#else
+iwl_init_he_6ghz_capa(...)
+{
+...
+}
++#endif
+
+@@
+identifier params;
+expression E1, E2, E3;
+@@
++#if CFG80211_VERSION >= KERNEL_VERSION(5,10,0)
+params.n_6ghz_params = E1;
+params.scan_6ghz_params = E2;
+params.scan_6ghz = E3;
++#endif
+

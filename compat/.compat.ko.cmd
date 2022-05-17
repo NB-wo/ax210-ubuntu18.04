@@ -1,0 +1,1 @@
+cmd_/home/lh/ax210-ubuntu18.04/compat/compat.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/lh/ax210-ubuntu18.04/compat/compat.ko /home/lh/ax210-ubuntu18.04/compat/compat.o /home/lh/ax210-ubuntu18.04/compat/compat.mod.o;  true
